@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5209dd2e-995d-4681-808f-e9fc50140afe" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Reel.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/GraphicRaycasterRaycasterExample.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Slots.cs" root0="SKIP_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/ExampleScript.cs" />
+        <option value="$PROJECT_DIR$/Slots.cs" />
+        <option value="$PROJECT_DIR$/Reel.cs" />
+        <option value="$PROJECT_DIR$/GraphicRaycasterRaycasterExample.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1j9FDzOiC5O6WXlp6vYXw3ZCKqQ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5209dd2e-995d-4681-808f-e9fc50140afe" name="Default Changelist" comment="" />
+      <created>1603208290143</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1603208290143</updated>
+      <workItem from="1603208301653" duration="6329000" />
+      <workItem from="1603266327125" duration="18154000" />
+      <workItem from="1603363005265" duration="10789000" />
+      <workItem from="1603443069068" duration="4854000" />
+      <workItem from="1603702434537" duration="15854000" />
+      <workItem from="1603806478926" duration="9409000" />
+      <workItem from="1603873845221" duration="4629000" />
+      <workItem from="1603879517236" duration="60000" />
+      <workItem from="1603879599454" duration="23000" />
+      <workItem from="1603879642054" duration="11242000" />
+      <workItem from="1603971942591" duration="379000" />
+      <workItem from="1603972344706" duration="8516000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="VcsManagerConfiguration">
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1021" y="242" key="run.anything.popup" timestamp="1603811733076">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1021" y="242" key="run.anything.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1603811733076" />
+  </component>
+</project>
