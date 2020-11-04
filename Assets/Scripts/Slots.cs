@@ -48,6 +48,7 @@ public class Slots : MonoBehaviour
             yield return new WaitForSeconds(Random.Range(1, 3));
             reel[i].spin = false;
             //reel[i].RandomPosition();
+            reel[i].AlignMiddle(combination);
             chec[i] = true;
             if (chec[2] == true)
             {
@@ -56,7 +57,7 @@ public class Slots : MonoBehaviour
             }
             
             
-            reel[i].AlignMiddle(combination);
+            
         }
         // Позволяет снова запустить машину
         startSpin = false;
